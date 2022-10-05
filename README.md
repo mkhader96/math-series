@@ -17,6 +17,8 @@
 #### How to initialize/run your application (where applicable)
 
 #### How to use your library (where applicable)
+- Installing pytest library
+- Using pytest command to start the tests
 
 #### Tests
 
